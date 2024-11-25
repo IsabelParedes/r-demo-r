@@ -1,0 +1,352 @@
+{
+    "prefix": "/",
+    "packages": [
+        {
+            "name": "pcre2",
+            "version": "10.43",
+            "build": "h9bc1771_1",
+            "filename_stem": "pcre2-10.43-h9bc1771_1",
+            "filename": "pcre2-10.43-h9bc1771_1.tar.gz"
+        },
+        {
+            "name": "libflang",
+            "version": "19.1.0.rc2",
+            "build": "h41a3df3_1",
+            "filename_stem": "libflang-19.1.0.rc2-h41a3df3_1",
+            "filename": "libflang-19.1.0.rc2-h41a3df3_1.tar.gz"
+        },
+        {
+            "name": "xz",
+            "version": "5.2.13",
+            "build": "h42ccc92_1",
+            "filename_stem": "xz-5.2.13-h42ccc92_1",
+            "filename": "xz-5.2.13-h42ccc92_1.tar.gz"
+        },
+        {
+            "name": "bzip2",
+            "version": "1.0.8",
+            "build": "hbc39537_8",
+            "filename_stem": "bzip2-1.0.8-hbc39537_8",
+            "filename": "bzip2-1.0.8-hbc39537_8.tar.gz"
+        },
+        {
+            "name": "libiconv",
+            "version": "1.17",
+            "build": "h42ccc92_2",
+            "filename_stem": "libiconv-1.17-h42ccc92_2",
+            "filename": "libiconv-1.17-h42ccc92_2.tar.gz"
+        },
+        {
+            "name": "r-base",
+            "version": "4.4.1",
+            "build": "h9524f7f_3",
+            "filename_stem": "r-base-4.4.1-h9524f7f_3",
+            "filename": "r-base-4.4.1-h9524f7f_3.tar.gz"
+        },
+        {
+            "name": "r-fastmap",
+            "version": "1.2.0",
+            "build": "h42d8aaa_3",
+            "filename_stem": "r-fastmap-1.2.0-h42d8aaa_3",
+            "filename": "r-fastmap-1.2.0-h42d8aaa_3.tar.gz"
+        },
+        {
+            "name": "r-digest",
+            "version": "0.6.37",
+            "build": "h42d8aaa_3",
+            "filename_stem": "r-digest-0.6.37-h42d8aaa_3",
+            "filename": "r-digest-0.6.37-h42d8aaa_3.tar.gz"
+        },
+        {
+            "name": "r-lattice",
+            "version": "0.22_6",
+            "build": "hc9032b0_2",
+            "filename_stem": "r-lattice-0.22_6-hc9032b0_2",
+            "filename": "r-lattice-0.22_6-hc9032b0_2.tar.gz"
+        },
+        {
+            "name": "r-magrittr",
+            "version": "2.0.3",
+            "build": "hc9032b0_1",
+            "filename_stem": "r-magrittr-2.0.3-hc9032b0_1",
+            "filename": "r-magrittr-2.0.3-hc9032b0_1.tar.gz"
+        },
+        {
+            "name": "r-mass",
+            "version": "7.3_61",
+            "build": "hc9032b0_4",
+            "filename_stem": "r-mass-7.3_61-hc9032b0_4",
+            "filename": "r-mass-7.3_61-hc9032b0_4.tar.gz"
+        },
+        {
+            "name": "r-isoband",
+            "version": "0.2.7",
+            "build": "h42d8aaa_3",
+            "filename_stem": "r-isoband-0.2.7-h42d8aaa_3",
+            "filename": "r-isoband-0.2.7-h42d8aaa_3.tar.gz"
+        },
+        {
+            "name": "r-utf8",
+            "version": "1.2.4",
+            "build": "hc9032b0_3",
+            "filename_stem": "r-utf8-1.2.4-hc9032b0_3",
+            "filename": "r-utf8-1.2.4-hc9032b0_3.tar.gz"
+        },
+        {
+            "name": "r-fansi",
+            "version": "1.0.6",
+            "build": "hc9032b0_3",
+            "filename_stem": "r-fansi-1.0.6-hc9032b0_3",
+            "filename": "r-fansi-1.0.6-hc9032b0_3.tar.gz"
+        },
+        {
+            "name": "r-base64enc",
+            "version": "0.1_3",
+            "build": "hc9032b0_4",
+            "filename_stem": "r-base64enc-0.1_3-hc9032b0_4",
+            "filename": "r-base64enc-0.1_3-hc9032b0_4.tar.gz"
+        },
+        {
+            "name": "r-farver",
+            "version": "2.1.2",
+            "build": "h890b677_1",
+            "filename_stem": "r-farver-2.1.2-h890b677_1",
+            "filename": "r-farver-2.1.2-h890b677_1.tar.gz"
+        },
+        {
+            "name": "r-colorspace",
+            "version": "2.1_1",
+            "build": "hc9032b0_1",
+            "filename_stem": "r-colorspace-2.1_1-hc9032b0_1",
+            "filename": "r-colorspace-2.1_1-hc9032b0_1.tar.gz"
+        },
+        {
+            "name": "r-cli",
+            "version": "3.6.3",
+            "build": "hc9032b0_1",
+            "filename_stem": "r-cli-3.6.3-hc9032b0_1",
+            "filename": "r-cli-3.6.3-hc9032b0_1.tar.gz"
+        },
+        {
+            "name": "r-glue",
+            "version": "1.7.0",
+            "build": "hc9032b0_3",
+            "filename_stem": "r-glue-1.7.0-hc9032b0_3",
+            "filename": "r-glue-1.7.0-hc9032b0_3.tar.gz"
+        },
+        {
+            "name": "r-jsonlite",
+            "version": "1.8.9",
+            "build": "hc9032b0_1",
+            "filename_stem": "r-jsonlite-1.8.9-hc9032b0_1",
+            "filename": "r-jsonlite-1.8.9-hc9032b0_1.tar.gz"
+        },
+        {
+            "name": "r-rlang",
+            "version": "1.1.4",
+            "build": "hc9032b0_2",
+            "filename_stem": "r-rlang-1.1.4-hc9032b0_2",
+            "filename": "r-rlang-1.1.4-hc9032b0_2.tar.gz"
+        },
+        {
+            "name": "r-nlme",
+            "version": "3.1_166",
+            "build": "hc9032b0_1",
+            "filename_stem": "r-nlme-3.1_166-hc9032b0_1",
+            "filename": "r-nlme-3.1_166-hc9032b0_1.tar.gz"
+        },
+        {
+            "name": "r-matrix",
+            "version": "1.7_0",
+            "build": "h4c6d24e_1",
+            "filename_stem": "r-matrix-1.7_0-h4c6d24e_1",
+            "filename": "r-matrix-1.7_0-h4c6d24e_1.tar.gz"
+        },
+        {
+            "name": "r-ellipsis",
+            "version": "0.3.2",
+            "build": "hc9032b0_1",
+            "filename_stem": "r-ellipsis-0.3.2-hc9032b0_1",
+            "filename": "r-ellipsis-0.3.2-hc9032b0_1.tar.gz"
+        },
+        {
+            "name": "r-mgcv",
+            "version": "1.9_1",
+            "build": "h4c6d24e_1",
+            "filename_stem": "r-mgcv-1.9_1-h4c6d24e_1",
+            "filename": "r-mgcv-1.9_1-h4c6d24e_1.tar.gz"
+        },
+        {
+            "name": "r-htmltools",
+            "version": "0.5.8.1",
+            "build": "h42d8aaa_1",
+            "filename_stem": "r-htmltools-0.5.8.1-h42d8aaa_1",
+            "filename": "r-htmltools-0.5.8.1-h42d8aaa_1.tar.gz"
+        },
+        {
+            "name": "emscripten-abi",
+            "version": "3.1.45",
+            "build": "h267e887_30",
+            "filename_stem": "emscripten-abi-3.1.45-h267e887_30",
+            "filename": "emscripten-abi-3.1.45-h267e887_30.tar.gz"
+        },
+        {
+            "name": "r-withr",
+            "version": "3.0.2",
+            "build": "r44hc72bb7e_0",
+            "filename_stem": "r-withr-3.0.2-r44hc72bb7e_0",
+            "filename": "r-withr-3.0.2-r44hc72bb7e_0.tar.gz"
+        },
+        {
+            "name": "r-pkgconfig",
+            "version": "2.0.3",
+            "build": "r44hc72bb7e_4",
+            "filename_stem": "r-pkgconfig-2.0.3-r44hc72bb7e_4",
+            "filename": "r-pkgconfig-2.0.3-r44hc72bb7e_4.tar.gz"
+        },
+        {
+            "name": "r-evaluate",
+            "version": "1.0.1",
+            "build": "r44hc72bb7e_0",
+            "filename_stem": "r-evaluate-1.0.1-r44hc72bb7e_0",
+            "filename": "r-evaluate-1.0.1-r44hc72bb7e_0.tar.gz"
+        },
+        {
+            "name": "r-viridislite",
+            "version": "0.4.2",
+            "build": "r44hc72bb7e_2",
+            "filename_stem": "r-viridislite-0.4.2-r44hc72bb7e_2",
+            "filename": "r-viridislite-0.4.2-r44hc72bb7e_2.tar.gz"
+        },
+        {
+            "name": "r-rcolorbrewer",
+            "version": "1.1_3",
+            "build": "r44h785f33e_3",
+            "filename_stem": "r-rcolorbrewer-1.1_3-r44h785f33e_3",
+            "filename": "r-rcolorbrewer-1.1_3-r44h785f33e_3.tar.gz"
+        },
+        {
+            "name": "r-r6",
+            "version": "2.5.1",
+            "build": "r44hc72bb7e_3",
+            "filename_stem": "r-r6-2.5.1-r44hc72bb7e_3",
+            "filename": "r-r6-2.5.1-r44hc72bb7e_3.tar.gz"
+        },
+        {
+            "name": "r-labeling",
+            "version": "0.4.3",
+            "build": "r44hc72bb7e_1",
+            "filename_stem": "r-labeling-0.4.3-r44hc72bb7e_1",
+            "filename": "r-labeling-0.4.3-r44hc72bb7e_1.tar.gz"
+        },
+        {
+            "name": "r-crayon",
+            "version": "1.5.3",
+            "build": "r44hc72bb7e_1",
+            "filename_stem": "r-crayon-1.5.3-r44hc72bb7e_1",
+            "filename": "r-crayon-1.5.3-r44hc72bb7e_1.tar.gz"
+        },
+        {
+            "name": "r-munsell",
+            "version": "0.5.1",
+            "build": "r44hc72bb7e_1",
+            "filename_stem": "r-munsell-0.5.1-r44hc72bb7e_1",
+            "filename": "r-munsell-0.5.1-r44hc72bb7e_1.tar.gz"
+        },
+        {
+            "name": "r-lifecycle",
+            "version": "1.0.4",
+            "build": "r44hc72bb7e_1",
+            "filename_stem": "r-lifecycle-1.0.4-r44hc72bb7e_1",
+            "filename": "r-lifecycle-1.0.4-r44hc72bb7e_1.tar.gz"
+        },
+        {
+            "name": "r-gtable",
+            "version": "0.3.6",
+            "build": "r44hc72bb7e_0",
+            "filename_stem": "r-gtable-0.3.6-r44hc72bb7e_0",
+            "filename": "r-gtable-0.3.6-r44hc72bb7e_0.tar.gz"
+        },
+        {
+            "name": "r-scales",
+            "version": "1.3.0",
+            "build": "r44hc72bb7e_1",
+            "filename_stem": "r-scales-1.3.0-r44hc72bb7e_1",
+            "filename": "r-scales-1.3.0-r44hc72bb7e_1.tar.gz"
+        },
+        {
+            "name": "zlib",
+            "version": "1.2.13",
+            "build": "h12b8776_2",
+            "filename_stem": "zlib-1.2.13-h12b8776_2",
+            "filename": "zlib-1.2.13-h12b8776_2.tar.gz"
+        },
+        {
+            "name": "nlohmann_json",
+            "version": "3.11.3",
+            "build": "he2bab0f_1",
+            "filename_stem": "nlohmann_json-3.11.3-he2bab0f_1",
+            "filename": "nlohmann_json-3.11.3-he2bab0f_1.tar.gz"
+        },
+        {
+            "name": "r-vctrs",
+            "version": "0.6.5",
+            "build": "h42d8aaa_1",
+            "filename_stem": "r-vctrs-0.6.5-h42d8aaa_1",
+            "filename": "r-vctrs-0.6.5-h42d8aaa_1.tar.gz"
+        },
+        {
+            "name": "r-pillar",
+            "version": "1.9.0",
+            "build": "r44hc72bb7e_2",
+            "filename_stem": "r-pillar-1.9.0-r44hc72bb7e_2",
+            "filename": "r-pillar-1.9.0-r44hc72bb7e_2.tar.gz"
+        },
+        {
+            "name": "r-repr",
+            "version": "1.1.7",
+            "build": "r44h785f33e_1",
+            "filename_stem": "r-repr-1.1.7-r44h785f33e_1",
+            "filename": "r-repr-1.1.7-r44h785f33e_1.tar.gz"
+        },
+        {
+            "name": "r-irdisplay",
+            "version": "1.1",
+            "build": "r44hd8ed1ab_3",
+            "filename_stem": "r-irdisplay-1.1-r44hd8ed1ab_3",
+            "filename": "r-irdisplay-1.1-r44hd8ed1ab_3.tar.gz"
+        },
+        {
+            "name": "r-tibble",
+            "version": "3.2.1",
+            "build": "hc9032b0_1",
+            "filename_stem": "r-tibble-3.2.1-hc9032b0_1",
+            "filename": "r-tibble-3.2.1-hc9032b0_1.tar.gz"
+        },
+        {
+            "name": "r-ggplot2",
+            "version": "3.5.1",
+            "build": "r44hc72bb7e_1",
+            "filename_stem": "r-ggplot2-3.5.1-r44hc72bb7e_1",
+            "filename": "r-ggplot2-3.5.1-r44hc72bb7e_1.tar.gz"
+        },
+        {
+            "name": "xeus",
+            "version": "5.1.1",
+            "build": "h18da88b_0",
+            "filename_stem": "xeus-5.1.1-h18da88b_0",
+            "filename": "xeus-5.1.1-h18da88b_0.tar.gz"
+        },
+        {
+            "name": "xeus-lite",
+            "version": "3.0.0",
+            "build": "h5ef0a50_1",
+            "filename_stem": "xeus-lite-3.0.0-h5ef0a50_1",
+            "filename": "xeus-lite-3.0.0-h5ef0a50_1.tar.gz"
+        },
+        {
+            "name": "mount_0.tar.gz",
+            "filename": "mount_0.tar.gz"
+        }
+    ]
+}

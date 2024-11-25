@@ -1,0 +1,5 @@
+build
+host-env/conda-meta
+host-env/lib/pkgconfig
+host-env/lib/R/etc
+xeus/kernel_packages
