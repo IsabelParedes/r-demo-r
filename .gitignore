@@ -1,4 +1,3 @@
-build
 host-env-backup
 host-env/conda-meta
 host-env/lib/pkgconfig
