@@ -8,7 +8,7 @@
   "language": "R",
   "metadata": {"debugger": false},
   "env": {
-    "R_HOME": "/home/ihuicatl/Repos/Xeus/xeus-r-lite/host-env/lib/R",
-    "LD_LIBRARY_PATH": "/home/ihuicatl/Repos/Xeus/xeus-r-lite/host-env/lib/R/lib"
+    "R_HOME": "/host-env/lib/R",
+    "LD_LIBRARY_PATH": "/host-env/lib/R/lib"
   }
 }
